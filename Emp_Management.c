@@ -31,7 +31,7 @@ int admin_pass();
 /* Main function started */
 
 int main()
-{    system("COLOR 0E");
+{    system("COLOR 3F");
     //Variables Declarations
     struct emp e;
     int pss,op,op1;
